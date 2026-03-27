@@ -20,14 +20,14 @@ A full-stack finance tracking app built with:
 ## Setup
 
 ### Backend
-cd FinanceTracker.Api
-dotnet ef database update
-dotnet run
+- cd FinanceTracker.Api
+- dotnet ef database update
+- dotnet run
 
 ### Frontend
-cd finance-tracker-fe
-npm install
-npm run dev
+- cd finance-tracker-fe
+- npm install
+- npm run dev
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## Known Limitations
